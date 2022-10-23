@@ -262,3 +262,25 @@ img {
 
   color: #ffffff;
 }
+
+.blog {
+  padding-bottom: 80px;
+}
+
+.blog-list {
+  display: flex;
+  gap: 38px;
+}
+.blog-list-item {
+  padding: 48px;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+
+}
+.blog-list-item-title {
+  margin-bottom: 16px;
+}
+.blog-list-item-text {
+  margin-bottom: 16px;
+}
+.blog-list-item-link {
+}
