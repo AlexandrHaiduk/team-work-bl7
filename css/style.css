@@ -274,7 +274,6 @@ img {
 .blog-list-item {
   padding: 48px;
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
-
 }
 .blog-list-item-title {
   margin-bottom: 16px;
@@ -283,4 +282,53 @@ img {
   margin-bottom: 16px;
 }
 .blog-list-item-link {
+}
+
+/* !!!---FOOTER---!!! */
+
+.footer {
+  padding-top: 106px;
+  padding-bottom: 74px;
+  background-color: #fafafa;
+}
+
+.footer-container {
+  width: 1000px;
+  margin: 0 auto;
+}
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  padding: 53px;
+  border-bottom: 1px solid #000000;
+}
+
+.footer-nav-list {
+  display: flex;
+  gap: 81px;
+}
+
+.footer-logo {
+  margin-right: 141px;
+  margin-left: 141px;
+}
+.footer-list {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  margin-top: 55px;
+}
+
+.footer-text-thumb {
+  display: flex;
+  justify-content: center;
+  margin-top: 55px;
+}
+
+.footer-text {
+  text-align: center;
+  margin-right: 14px;
+}
+
+.footer-privacy {
 }
