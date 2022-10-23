@@ -145,6 +145,42 @@ img {
   border-radius: 5px;
 }
 
+/* Gifts section */
+
+.gifts {
+  padding-top: 96px;
+  padding-bottom: 137px;
+}
+.secondary-container {
+  margin: 0 auto;
+  width: 1170px;
+}
+.gifts-title {
+  text-align: center;
+  margin-bottom: 23px;
+}
+.gifts-subtitle {
+  text-align: center;
+  margin-bottom: 64px;
+}
+.gifts-list {
+  display: flex;
+    gap: 30px;
+}
+.gifts-list-item {
+
+}
+
+.gifts-list-item-wrapper {
+  padding: 24px;
+}
+
+.gifts-list-item-title {
+  margin-bottom: 74px;
+}
+.gifts-list-item-link {
+}
+
 /*---- STARTED---- */
 .started {
   background-color: #f7941e;
